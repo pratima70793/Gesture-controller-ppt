@@ -1,0 +1,8 @@
+{
+  "name": "Real-Time Touchless PPT Controller",
+  "description": "Control Microsoft PowerPoint presentations touchlessly using real-time webcam hand gestures, MediaPipe landmark tracking, stability analysis, and PyAutoGUI keyboard control.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
